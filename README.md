@@ -1,1 +1,2 @@
-# CV__MRIimage-based-Liver-Unet-Segmentation
+# CV__MRI-based Liver Segmentation using Unet model
+
