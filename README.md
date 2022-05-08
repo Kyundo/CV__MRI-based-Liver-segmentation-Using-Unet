@@ -1,5 +1,5 @@
 # CV__MRI-based Liver Segmentation using Unet model
-
+![3](https://user-images.githubusercontent.com/75473616/167287314-8f32dc5e-0c68-459b-aba7-b7d81ccb9421.png)
 #### my data
 ```
 Input_dimension = (512, 512)
